@@ -1,7 +1,6 @@
 # 🤖 Robo Speaker - Python Text-to-Speech App
 
-![Robo Speaker Banner]("/assets/Banner.png")
-C:\Users\Sujal\Desktop\Python\My Programmes\Robo-Speaker\assets\Banner.png
+![Robo Speaker Banner](assets/Banner.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
