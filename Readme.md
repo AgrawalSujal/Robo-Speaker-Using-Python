@@ -53,12 +53,16 @@ python robo_speaker.py
 
 ## 📂 File Structure
 
+```plaintext
 robo-speak/
 │
-├── robo_speaker.py # Main application file
-├── README.md # This file
-└── requirements.txt # (optional) List of dependencies
+├── assets/
+│   └── Banner.png
+├── robo_speaker.py
+├── README.md
+└── requirements.txt
+```
 
 ## 🙋‍♂️ Author
 
-Sujal Agrawal
+Sujal Agrawal - [GitHub Profile](https://github.com/AgrawalSujal)
